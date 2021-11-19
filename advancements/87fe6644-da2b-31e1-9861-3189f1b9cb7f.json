@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-11-20 02:39:45 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-12-13 20:13:46 +0700"
@@ -218,6 +224,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2021-10-15 21:05:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-11-20 02:04:55 +0700"
     },
     "done": true
   },
@@ -725,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-11-20 02:39:45 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_lime_dye": "2021-11-20 00:05:33 +0700"
@@ -872,6 +890,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2021-11-14 15:52:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2021-11-20 03:28:48 +0700"
     },
     "done": true
   },
@@ -1325,6 +1349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2021-11-20 00:26:20 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2020-12-13 20:13:46 +0700"
@@ -1710,6 +1740,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2021-11-20 00:26:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2021-11-20 00:26:25 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2021-11-13 13:25:40 +0700"
@@ -1731,6 +1773,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2021-11-14 16:25:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2021-11-20 00:26:25 +0700"
     },
     "done": true
   },
@@ -2112,6 +2160,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2021-11-20 00:26:25 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2020-12-13 20:13:46 +0700"
@@ -2431,6 +2485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2021-11-20 03:28:48 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp": {
     "criteria": {
       "has_dried_kelp_block": "2021-11-13 13:42:30 +0700"
@@ -2491,6 +2551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2021-11-20 03:28:48 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-11-14 16:25:00 +0700"
@@ -2518,6 +2584,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-11-07 04:17:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2021-11-20 00:26:20 +0700"
     },
     "done": true
   },
@@ -2704,6 +2776,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-11-14 16:25:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-11-20 01:01:24 +0700"
     },
     "done": true
   },
@@ -2920,6 +2998,12 @@
   "minecraft:recipes/misc/lapis_from_blasting": {
     "criteria": {
       "has_lapis_ore": "2021-10-15 21:33:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_brown_dye": "2021-11-20 02:44:35 +0700"
     },
     "done": true
   },
@@ -3259,6 +3343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2021-11-20 00:32:57 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2021-10-23 09:09:11 +0700"
@@ -3358,6 +3448,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-12-13 20:13:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-11-20 02:39:45 +0700"
     },
     "done": true
   },
