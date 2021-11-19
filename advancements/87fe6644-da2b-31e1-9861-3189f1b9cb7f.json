@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2021-11-19 23:18:04 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2021-10-30 20:07:39 +0700"
@@ -2470,6 +2476,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2021-10-15 20:51:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2021-11-19 23:18:04 +0700"
     },
     "done": true
   },
