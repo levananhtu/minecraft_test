@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2021-11-20 17:37:23 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-10-01 21:58:27 +0700"
@@ -1590,6 +1596,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2021-11-20 17:37:08 +0700",
       "minecraft:nether_wastes": "2021-11-12 20:30:28 +0700",
       "minecraft:basalt_deltas": "2021-11-07 04:01:09 +0700",
       "minecraft:warped_forest": "2021-11-12 20:33:47 +0700"
@@ -2968,6 +2975,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2021-11-06 01:16:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2021-11-20 17:37:23 +0700"
     },
     "done": true
   },
