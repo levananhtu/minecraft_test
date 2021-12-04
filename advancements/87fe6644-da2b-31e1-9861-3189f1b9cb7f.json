@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2021-12-05 01:14:05 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2021-10-30 20:07:39 +0700"
@@ -272,6 +278,12 @@
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2021-11-13 13:27:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2021-12-04 00:06:27 +0700"
     },
     "done": true
   },
@@ -1400,11 +1412,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2021-10-03 18:17:50 +0700",
+      "minecraft:jungle_edge": "2021-12-05 01:28:45 +0700",
       "minecraft:mountains": "2021-10-15 20:31:18 +0700",
       "minecraft:taiga": "2021-10-15 20:35:56 +0700",
+      "minecraft:desert_hills": "2021-12-05 01:30:17 +0700",
       "minecraft:giant_tree_taiga": "2021-10-30 20:56:01 +0700",
       "minecraft:deep_cold_ocean": "2021-10-22 21:17:41 +0700",
       "minecraft:taiga_hills": "2021-10-30 08:48:55 +0700",
+      "minecraft:desert": "2021-12-05 01:28:46 +0700",
       "minecraft:jungle": "2020-12-13 20:13:46 +0700",
       "minecraft:jungle_hills": "2021-10-19 20:52:21 +0700",
       "minecraft:beach": "2021-10-01 22:07:16 +0700",
@@ -1702,6 +1717,12 @@
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2021-10-28 21:42:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2021-12-05 01:13:39 +0700"
     },
     "done": true
   },
@@ -2277,8 +2298,10 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2021-12-04 00:47:53 +0700",
       "minecraft:sheep": "2021-11-14 16:05:27 +0700",
-      "minecraft:cow": "2021-11-14 16:05:04 +0700"
+      "minecraft:cow": "2021-11-14 16:05:04 +0700",
+      "minecraft:rabbit": "2021-12-05 01:29:56 +0700"
     },
     "done": false
   },
@@ -3461,6 +3484,12 @@
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2021-11-07 04:02:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2021-12-05 01:13:39 +0700"
     },
     "done": true
   },
