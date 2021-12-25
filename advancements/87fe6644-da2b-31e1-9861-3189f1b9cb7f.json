@@ -647,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-12-25 19:17:32 +0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2021-10-15 21:18:05 +0700"
@@ -932,6 +938,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-10-15 21:05:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-12-25 19:17:32 +0700"
     },
     "done": true
   },
@@ -1235,6 +1247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-12-25 19:17:32 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-11-07 04:01:46 +0700"
@@ -1286,6 +1304,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2021-11-14 15:52:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2021-12-25 18:18:50 +0700"
     },
     "done": true
   },
@@ -1966,6 +1990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-12-25 19:17:32 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-11-07 04:17:50 +0700"
@@ -1981,6 +2011,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2021-10-30 01:00:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-12-25 19:17:32 +0700"
     },
     "done": true
   },
@@ -2313,6 +2349,7 @@
       "minecraft:pig": "2021-12-04 00:47:53 +0700",
       "minecraft:sheep": "2021-11-14 16:05:27 +0700",
       "minecraft:cow": "2021-11-14 16:05:04 +0700",
+      "minecraft:chicken": "2021-12-25 19:26:15 +0700",
       "minecraft:rabbit": "2021-12-05 01:29:56 +0700",
       "minecraft:bee": "2021-12-09 23:35:22 +0700"
     },
@@ -2345,6 +2382,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2020-12-13 20:13:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-12-25 19:17:32 +0700"
     },
     "done": true
   },
@@ -2645,6 +2688,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-11-07 04:17:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-12-25 19:17:32 +0700"
     },
     "done": true
   },
@@ -3176,9 +3225,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2021-12-25 19:00:41 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2021-10-15 21:05:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-12-25 19:17:32 +0700"
     },
     "done": true
   },
@@ -3482,6 +3543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-12-25 19:17:32 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2020-12-13 20:13:46 +0700"
@@ -3491,6 +3558,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-12-13 20:13:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-12-25 19:17:32 +0700"
     },
     "done": true
   },
