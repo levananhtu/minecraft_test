@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2022-01-15 19:54:49 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-12-13 20:13:46 +0700"
@@ -1771,10 +1777,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2021-11-20 17:37:08 +0700",
       "minecraft:nether_wastes": "2021-11-12 20:30:28 +0700",
+      "minecraft:soul_sand_valley": "2022-01-15 19:35:27 +0700",
       "minecraft:basalt_deltas": "2021-11-07 04:01:09 +0700",
       "minecraft:warped_forest": "2021-11-12 20:33:47 +0700"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -2600,6 +2607,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2021-10-03 18:21:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2022-01-15 19:54:49 +0700"
     },
     "done": true
   },
