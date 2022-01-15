@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-01-15 02:35:47 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2021-10-30 20:07:39 +0700"
@@ -1516,10 +1522,12 @@
       "minecraft:deep_cold_ocean": "2021-10-22 21:17:41 +0700",
       "minecraft:taiga_hills": "2021-10-30 08:48:55 +0700",
       "minecraft:desert": "2021-12-05 01:28:46 +0700",
+      "minecraft:deep_frozen_ocean": "2022-01-15 16:37:01 +0700",
       "minecraft:jungle": "2020-12-13 20:13:46 +0700",
       "minecraft:jungle_hills": "2021-10-19 20:52:21 +0700",
       "minecraft:beach": "2021-10-01 22:07:16 +0700",
       "minecraft:river": "2021-10-03 18:17:48 +0700",
+      "minecraft:wooded_mountains": "2022-01-15 18:18:31 +0700",
       "minecraft:giant_tree_taiga_hills": "2021-10-15 20:58:15 +0700",
       "minecraft:swamp": "2021-10-03 18:18:42 +0700"
     },
@@ -1624,6 +1632,12 @@
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2022-01-02 01:37:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2022-01-15 16:37:51 +0700"
     },
     "done": true
   },
@@ -2877,6 +2891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2022-01-15 02:36:19 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2021-11-07 04:17:50 +0700"
@@ -3030,6 +3050,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2022-01-02 01:37:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "cod_bucket": "2022-01-15 17:09:53 +0700"
     },
     "done": true
   },
