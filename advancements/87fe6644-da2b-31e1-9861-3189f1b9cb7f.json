@@ -1785,6 +1785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2022-01-29 01:14:10 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2021-10-19 20:40:20 +0700"
@@ -2605,6 +2611,7 @@
       "minecraft:sheep": "2021-11-14 16:05:27 +0700",
       "minecraft:cow": "2021-11-14 16:05:04 +0700",
       "minecraft:chicken": "2021-12-25 19:26:15 +0700",
+      "minecraft:wolf": "2022-01-23 02:27:45 +0700",
       "minecraft:rabbit": "2021-12-05 01:29:56 +0700",
       "minecraft:bee": "2021-12-09 23:35:22 +0700"
     },
