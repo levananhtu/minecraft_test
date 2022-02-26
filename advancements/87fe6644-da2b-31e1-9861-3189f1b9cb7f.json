@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2022-02-26 19:51:23 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-12-13 20:13:46 +0700"
@@ -871,8 +877,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:ghast": "2022-02-26 19:54:11 +0700",
+      "minecraft:magma_cube": "2022-02-26 19:51:17 +0700",
       "minecraft:slime": "2022-02-26 03:06:12 +0700",
+      "minecraft:zombified_piglin": "2022-02-26 19:53:47 +0700",
       "minecraft:cave_spider": "2022-02-26 02:40:25 +0700",
+      "minecraft:enderman": "2022-02-26 19:59:11 +0700",
       "minecraft:zombie": "2022-02-26 02:41:26 +0700",
       "minecraft:drowned": "2022-02-26 02:48:54 +0700"
     },
