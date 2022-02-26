@@ -871,8 +871,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:slime": "2022-02-26 03:06:12 +0700",
       "minecraft:cave_spider": "2022-02-26 02:40:25 +0700",
-      "minecraft:zombie": "2022-02-26 02:41:26 +0700"
+      "minecraft:zombie": "2022-02-26 02:41:26 +0700",
+      "minecraft:drowned": "2022-02-26 02:48:54 +0700"
     },
     "done": false
   },
@@ -1239,6 +1241,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2022-01-02 01:37:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2022-02-26 03:06:25 +0700"
     },
     "done": true
   },
@@ -1689,6 +1697,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2021-10-01 21:58:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2022-02-26 03:06:25 +0700"
     },
     "done": true
   },
@@ -3641,6 +3655,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-11-06 01:13:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2022-02-26 03:06:25 +0700"
     },
     "done": true
   },
