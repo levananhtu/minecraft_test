@@ -683,6 +683,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2022-03-05 01:15:43 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-12-13 20:13:46 +0700"
@@ -898,6 +904,7 @@
       "minecraft:zombified_piglin": "2022-02-26 19:53:47 +0700",
       "minecraft:witch": "2022-02-26 23:25:43 +0700",
       "minecraft:cave_spider": "2022-02-26 02:40:25 +0700",
+      "minecraft:piglin": "2022-03-05 01:15:04 +0700",
       "minecraft:enderman": "2022-02-26 19:59:11 +0700",
       "minecraft:zombie": "2022-02-26 02:41:26 +0700",
       "minecraft:drowned": "2022-02-26 02:48:54 +0700"
@@ -2581,7 +2588,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "pumpkin_pie": "2022-02-26 02:43:28 +0700",
-      "suspicious_stew": "2022-02-20 01:56:35 +0700"
+      "suspicious_stew": "2022-02-20 01:56:35 +0700",
+      "melon_slice": "2022-03-05 00:50:41 +0700"
     },
     "done": false
   },
