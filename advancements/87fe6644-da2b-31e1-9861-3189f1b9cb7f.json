@@ -1780,6 +1780,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2021-10-15 20:58:15 +0700",
       "minecraft:taiga": "2021-10-30 08:48:55 +0700",
+      "minecraft:deep_ocean": "2022-03-06 02:10:31 +0700",
       "minecraft:windswept_hills": "2021-10-15 20:31:18 +0700",
       "minecraft:beach": "2021-10-01 22:07:16 +0700",
       "minecraft:sparse_jungle": "2021-12-05 01:28:45 +0700",
@@ -1792,7 +1793,8 @@
       "minecraft:desert": "2021-12-05 01:28:46 +0700",
       "minecraft:deep_frozen_ocean": "2022-01-15 16:37:01 +0700",
       "minecraft:windswept_forest": "2022-01-15 18:18:31 +0700",
-      "minecraft:jungle": "2021-10-19 20:52:21 +0700"
+      "minecraft:jungle": "2021-10-19 20:52:21 +0700",
+      "minecraft:ocean": "2022-03-06 01:33:11 +0700"
     },
     "done": false
   },
@@ -3714,6 +3716,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2022-02-26 03:06:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2022-03-12 01:29:17 +0700"
     },
     "done": true
   },
