@@ -895,6 +895,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2022-03-18 01:04:34 +0700",
       "minecraft:skeleton": "2022-02-26 22:51:12 +0700",
       "minecraft:ghast": "2022-02-26 19:54:11 +0700",
       "minecraft:magma_cube": "2022-02-26 19:51:17 +0700",
@@ -904,6 +905,7 @@
       "minecraft:phantom": "2022-03-05 21:04:30 +0700",
       "minecraft:zombified_piglin": "2022-02-26 19:53:47 +0700",
       "minecraft:witch": "2022-02-26 23:25:43 +0700",
+      "minecraft:wither_skeleton": "2022-03-18 01:06:13 +0700",
       "minecraft:cave_spider": "2022-02-26 02:40:25 +0700",
       "minecraft:piglin": "2022-03-05 01:15:04 +0700",
       "minecraft:enderman": "2022-02-26 19:59:11 +0700",
@@ -1233,6 +1235,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2021-10-30 19:20:21 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2022-03-18 01:04:34 +0700"
     },
     "done": true
   },
@@ -3833,6 +3841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2022-03-18 01:04:34 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2021-10-30 19:20:21 +0700"
@@ -3890,6 +3904,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2022-02-26 02:44:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-03-18 01:04:34 +0700"
     },
     "done": true
   },
