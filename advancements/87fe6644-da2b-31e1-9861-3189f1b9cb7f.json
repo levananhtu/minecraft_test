@@ -2637,6 +2637,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2022-03-30 00:17:21 +0700",
       "pumpkin_pie": "2022-02-26 02:43:28 +0700",
       "suspicious_stew": "2022-02-20 01:56:35 +0700",
       "melon_slice": "2022-03-05 00:50:41 +0700"
