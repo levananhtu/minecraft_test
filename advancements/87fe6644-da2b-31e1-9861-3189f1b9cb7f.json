@@ -952,6 +952,7 @@
       "minecraft:cave_spider": "2022-02-26 02:40:25 +0700",
       "minecraft:piglin": "2022-03-05 01:15:04 +0700",
       "minecraft:enderman": "2022-02-26 19:59:11 +0700",
+      "minecraft:silverfish": "2022-04-03 18:35:54 +0700",
       "minecraft:zombie": "2022-02-26 02:41:26 +0700",
       "minecraft:drowned": "2022-02-26 02:48:54 +0700",
       "minecraft:zombie_villager": "2022-04-01 23:00:50 +0700"
@@ -1195,6 +1196,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2021-10-17 11:55:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2022-04-03 18:12:27 +0700"
     },
     "done": true
   },
