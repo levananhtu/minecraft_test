@@ -563,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2022-04-09 21:30:41 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2021-11-20 00:03:54 +0700"
@@ -3745,7 +3751,8 @@
       "bread": "2022-04-02 18:51:03 +0700",
       "suspicious_stew": "2022-02-20 01:56:35 +0700",
       "dried_kelp": "2022-03-30 00:22:48 +0700",
-      "melon_slice": "2022-03-05 00:50:41 +0700"
+      "melon_slice": "2022-03-05 00:50:41 +0700",
+      "cooked_chicken": "2022-04-09 16:38:06 +0700"
     },
     "done": false
   },
@@ -3776,6 +3783,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2020-12-13 20:13:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2022-04-09 21:30:41 +0700"
     },
     "done": true
   },
