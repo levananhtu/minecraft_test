@@ -1696,6 +1696,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2022-04-23 10:46:35 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2021-10-28 21:42:41 +0700"
@@ -2735,6 +2741,7 @@
       "minecraft:spider": "2022-02-26 23:06:17 +0700",
       "minecraft:creeper": "2022-02-26 23:09:10 +0700",
       "minecraft:slime": "2022-02-26 03:06:12 +0700",
+      "minecraft:evoker": "2022-04-23 10:44:52 +0700",
       "minecraft:phantom": "2022-03-05 21:04:30 +0700",
       "minecraft:zombified_piglin": "2022-02-26 19:53:47 +0700",
       "minecraft:witch": "2022-02-26 23:25:43 +0700",
@@ -2743,6 +2750,7 @@
       "minecraft:piglin": "2022-03-05 01:15:04 +0700",
       "minecraft:enderman": "2022-02-26 19:59:11 +0700",
       "minecraft:silverfish": "2022-04-03 18:35:54 +0700",
+      "minecraft:vex": "2022-04-23 10:44:57 +0700",
       "minecraft:zombie": "2022-02-26 02:41:26 +0700",
       "minecraft:drowned": "2022-02-26 02:48:54 +0700",
       "minecraft:zombie_villager": "2022-04-01 23:00:50 +0700"
