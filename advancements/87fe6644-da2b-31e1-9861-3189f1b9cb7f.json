@@ -2783,6 +2783,7 @@
       "minecraft:magma_cube": "2022-02-26 19:51:17 +0700",
       "minecraft:spider": "2022-02-26 23:06:17 +0700",
       "minecraft:creeper": "2022-02-26 23:09:10 +0700",
+      "minecraft:wither": "2022-05-07 22:34:06 +0700",
       "minecraft:slime": "2022-02-26 03:06:12 +0700",
       "minecraft:evoker": "2022-04-23 10:44:52 +0700",
       "minecraft:phantom": "2022-03-05 21:04:30 +0700",
@@ -3187,6 +3188,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2021-10-15 21:42:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2022-05-07 22:32:54 +0700"
     },
     "done": true
   },
@@ -3779,6 +3786,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-05-07 22:32:43 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2021-11-09 01:57:49 +0700"
@@ -3999,6 +4012,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2021-10-16 00:32:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2022-05-07 22:34:07 +0700"
     },
     "done": true
   },
