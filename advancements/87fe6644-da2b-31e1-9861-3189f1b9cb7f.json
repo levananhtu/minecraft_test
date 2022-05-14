@@ -4804,7 +4804,9 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/white.png": "2022-01-29 22:29:52 +0700",
-      "textures/entity/cat/black.png": "2022-01-29 20:52:41 +0700"
+      "textures/entity/cat/tabby.png": "2022-05-14 23:40:22 +0700",
+      "textures/entity/cat/black.png": "2022-01-29 20:52:41 +0700",
+      "textures/entity/cat/persian.png": "2022-05-14 23:42:54 +0700"
     },
     "done": false
   },
